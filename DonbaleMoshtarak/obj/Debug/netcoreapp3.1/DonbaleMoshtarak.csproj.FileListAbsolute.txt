@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.exe
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.deps.json
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.runtimeconfig.json
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.dll
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.pdb
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.dll
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.pdb
+C:\Users\ASUS\source\repos\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.exe
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.deps.json
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.runtimeconfig.json
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.dll
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\bin\Debug\netcoreapp3.1\DonbaleMoshtarak.pdb
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.dll
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.pdb
+D:\bre be git\proje o tamrina\DonbaleMoshtarak\DonbaleMoshtarak\obj\Debug\netcoreapp3.1\DonbaleMoshtarak.genruntimeconfig.cache
